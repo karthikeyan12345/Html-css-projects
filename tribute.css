@@ -11,15 +11,12 @@ h3
 {
   color:#006400;
 }
-li
-{
-  align:center;
-}
+
 #image
 {
   height:700px;
   width:700px;
- align:center;
+ 
 }
 section
 {
@@ -32,6 +29,6 @@ img
 {
    height:700px;
   width:700px;
- align:center;
+ 
 }
 }
